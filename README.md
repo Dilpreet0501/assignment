@@ -1,8 +1,12 @@
-# React + Vite
+# Responsive Sidebar and Header Layout
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates a responsive layout with a sidebar and header using React and Tailwind CSS. The sidebar adapts its visibility and layout based on the screen size, showing icons only in tablet view and providing a toggle button for mobile view.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for styling.
+
+## Deployed Link to the website : https://assignment-nu-murex.vercel.app/
+
