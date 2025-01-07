@@ -21,7 +21,7 @@ function Announcement() {
           </li>
         ))}
       </ul>
-      <a href="#" className="text-blue-500 font-semibold hover:underline">See All Announcement</a>
+      <a href="#" className="text-orange-500 font-semibold hover:underline">See All Announcement</a>
     </div>
   );
 }

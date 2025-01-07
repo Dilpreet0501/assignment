@@ -1,6 +1,6 @@
 import React from 'react';
 import StatsCards from './StatsCards';
-import TotalStats from './TotalStats'; // Import the new component
+import TotalStats from './TotalStats';
 import Announcement from './Announcement';
 import Activity from './Activity';
 import Schedule from './Schedule';

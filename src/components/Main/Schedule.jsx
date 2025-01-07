@@ -21,7 +21,7 @@ function Schedule() {
           </ul>
         </div>
       ))}
-      <button className="text-blue-500 font-semibold hover:underline">Create a New Schedule</button>
+      <button className="text-orange-500 font-semibold hover:underline">Create a New Schedule</button>
     </div>
   );
 }

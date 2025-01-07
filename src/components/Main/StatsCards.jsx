@@ -14,8 +14,8 @@ function StatsCards() {
           key={index}
           className={`p-4 rounded-lg shadow ${stat.color} flex flex-col items-center`}
         >
-          <p className="text-lg font-semibold">{stat.title}</p>
-          <h2 className="text-3xl font-bold">{stat.value}</h2>
+          <p className="text-lg text-black font-semibold">{stat.title}</p>
+          <h2 className="text-3xl text-black font-bold">{stat.value}</h2>
           <p>{stat.sub}</p>
         </div>
       ))}
